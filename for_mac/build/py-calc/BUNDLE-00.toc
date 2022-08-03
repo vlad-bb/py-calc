@@ -1,0 +1,3 @@
+([('py-calc',
+   '/Users/admin/Documents/GitHub/PythonWeb/Modul_04/tkinter/calc/dist/py-calc',
+   'EXECUTABLE')],)
